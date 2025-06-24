@@ -18,10 +18,10 @@ Welcome to my collection of LeetCode solutions. Each problem is accompanied by a
 └── README.md  ← current file
 ```
 
-* **Source Code**: Organised by language and problem number for easy navigation.
-* **In‑line Comments**: Highlight key steps and decisions in the code.
-* **Problem Notes**: Brief markdown summaries outline the strategy, complexity analysis, and alternative approaches.
-* **References**: Links to articles, papers, or documentation that informed the solution.
+- **Source Code**: Organised by language and problem number for easy navigation.
+- **In‑line Comments**: Highlight key steps and decisions in the code.
+- **Problem Notes**: Brief markdown summaries outline the strategy, complexity analysis, and alternative approaches.
+- **References**: Links to articles, papers, or documentation that informed the solution.
 
 ## Running Examples
 
