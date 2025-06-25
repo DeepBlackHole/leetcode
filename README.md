@@ -44,9 +44,6 @@ Contributions are welcome. If you discover an error or have an improvement in mi
 
 If you find this repository useful, consider starring it on GitHub. Your feedback helps improve the content and keeps the project active.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
